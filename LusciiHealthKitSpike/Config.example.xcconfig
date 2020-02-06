@@ -1,0 +1,17 @@
+//
+//  Config.xcconfig
+//  LusciiHealthKitSpike
+//
+//  Created by Rik van den Brule on 06/02/2020.
+//  Copyright © 2020 Rik van den Brule. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+// The 10-character development team identifier, you can find this in "Membership Information"
+// in the Apple dev center
+DEVELOPMENT_TEAM =
+// The bundle id of the application
+BUNDLE_ID = 
+
